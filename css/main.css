@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Cardo|Pathway+Gothic+One');
+
+h1 {
+  font-family: 'Pathway Gothic One'; }
+
+h2 {
+  font-family: 'Pathway Gothic One';
+  font-size: 3em; }
+
+h3 {
+  font-family: 'Pathway Gothic One';
+  color: #00B7AB; }
+
+p {
+    font-family: 'Cardo'; }
