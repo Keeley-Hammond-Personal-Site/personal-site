@@ -13,3 +13,8 @@ h3 {
 
 p {
     font-family: 'Cardo'; }
+
+.icon-menu {
+  text-align: center;
+  padding: 10px;
+  font-size: 30px; }
