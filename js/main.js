@@ -17,3 +17,11 @@ function toggle() {
 }
 
 // toggle();
+
+var menuAnimation = function() {
+  $('.icon-menu').on('click', function() {
+    $('.main-nav ul').slideToggle('fast');
+  });
+};
+
+menuAnimation();

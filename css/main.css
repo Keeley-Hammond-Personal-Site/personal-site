@@ -5,7 +5,8 @@ h1 {
 
 h2 {
   font-family: 'Pathway Gothic One';
-  font-size: 3em; }
+  color: #00B7AB;
+  margin-top: 10px; }
 
 h3 {
   font-family: 'Pathway Gothic One';
@@ -13,3 +14,8 @@ h3 {
 
 p {
     font-family: 'Cardo'; }
+
+.icon-menu {
+  text-align: center;
+  padding: 10px;
+  font-size: 30px; }
